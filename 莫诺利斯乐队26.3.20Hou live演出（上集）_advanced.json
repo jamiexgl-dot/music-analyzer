@@ -1,0 +1,66 @@
+{
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "A"
+    },
+    {
+      "time": 2.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 4.0,
+      "chord": "F#"
+    },
+    {
+      "time": 6.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 8.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 10.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 12.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 14.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 16.0,
+      "chord": "Gm"
+    },
+    {
+      "time": 18.0,
+      "chord": "G"
+    }
+  ],
+  "structure": {
+    "change_points": [
+      5.5,
+      14.9,
+      23.3,
+      28.4,
+      33.8
+    ],
+    "estimated_sections": 22
+  },
+  "emotions": [
+    [
+      "energetic",
+      0.8
+    ],
+    [
+      "dynamic",
+      0.9
+    ]
+  ],
+  "timbre": [],
+  "description": "快节奏、充满能量的风格"
+}
