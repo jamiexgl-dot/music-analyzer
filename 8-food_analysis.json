@@ -1,0 +1,25 @@
+{
+  "duration": 60.0,
+  "tempo": 129.2,
+  "key": "A 小调",
+  "brightness": "暗沉/低频为主",
+  "spectral_centroid": 1458.29,
+  "dynamics": 0.0352,
+  "energy": {
+    "low": -40.39,
+    "mid": -52.44,
+    "high": -63.69
+  },
+  "style_tags": [
+    "中快板",
+    "低频厚重/电子感",
+    "暗沉音色/实验感",
+    "平稳/氛围化"
+  ],
+  "similar_bands": [
+    "Massive Attack",
+    "Sigur Rós",
+    "Portishead",
+    "Radiohead"
+  ]
+}

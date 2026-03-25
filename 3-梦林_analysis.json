@@ -1,0 +1,25 @@
+{
+  "duration": 60.0,
+  "tempo": 161.5,
+  "key": "D 大调",
+  "brightness": "均衡",
+  "spectral_centroid": 1622.6,
+  "dynamics": 0.0457,
+  "energy": {
+    "low": -45.8,
+    "mid": -56.59,
+    "high": -66.09
+  },
+  "style_tags": [
+    "快节奏/激进",
+    "低频厚重/电子感",
+    "暗沉音色/实验感",
+    "平稳/氛围化"
+  ],
+  "similar_bands": [
+    "Massive Attack",
+    "Portishead",
+    "Radiohead",
+    "Sigur Rós"
+  ]
+}

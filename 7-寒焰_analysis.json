@@ -1,0 +1,22 @@
+{
+  "duration": 60.0,
+  "tempo": 136.0,
+  "key": "B 大调",
+  "brightness": "均衡",
+  "spectral_centroid": 2051.13,
+  "dynamics": 0.0228,
+  "energy": {
+    "low": -43.21,
+    "mid": -54.22,
+    "high": -62.28
+  },
+  "style_tags": [
+    "中快板",
+    "低频厚重/电子感",
+    "平稳/氛围化"
+  ],
+  "similar_bands": [
+    "Portishead",
+    "Massive Attack"
+  ]
+}
